@@ -7,4 +7,3 @@
 .vscode/ipch
 lib
 lib/MD_Parola
-include/Config.h
