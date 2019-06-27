@@ -9,7 +9,7 @@ This project is about getting data from free Api's with a Wemos D1 and displayin
 * News
 * F1
 
-https://www.youtube.com/watch?v=MP3CKYKf75Y&t=202s
+https://www.youtube.com/watch?v=MP3CKYKf75Y
 
 ## Getting Started
 ***
