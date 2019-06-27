@@ -12,7 +12,7 @@ This project is about getting data from free Api's with a Wemos D1 and displayin
 https://www.youtube.com/watch?v=MP3CKYKf75Y&t=202s
 
 ## Getting Started
-
+***
 Go to Config.h set network and password of your wifi.
 
 To get Serial Print of everything change SERIALPRINT in Config.h to true.
@@ -37,10 +37,14 @@ qPath = "https://api.myjson.com/bins/xxx";
 
 Can be bought cheaply on Aliexpress
 
+ 
+### IMPORTANT
+
+Create folder lib and add the libraries
 ### Libraries
 * Adafruit_Sensor
-* ArduinoJson
-* DTH_sensor_library
+* ArduinoJson-6.10.1
+* DTH_sensor_library-1.3.4
 * MD_MAX72XX
 * MD_Parola
 
@@ -57,6 +61,7 @@ https://arduinojson.org/v6/assistant/
 https://www.grc.com/fingerprints.htm
 
 ## Acknowledgement 
+***
 Hayk Hakobyan
 
 https://arduino.stackexchange.com/questions/61828/parse-a-large-json-response-with-esp8266
