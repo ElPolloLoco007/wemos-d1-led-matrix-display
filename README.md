@@ -50,6 +50,7 @@ Create folder lib and add the libraries
 
 ### Tools
 * VS Code
+* Trello (to keep track on what needs to be done)
 #### Recomended Extensions
 * PlatformIO
 * c/c++
